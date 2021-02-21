@@ -1,0 +1,11 @@
+{
+	"title"		:	"Hitman Sight",
+	"type"		:	"effects",
+	"tags"		:	[ "roleplay", "fun" ],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*"
+	]
+}

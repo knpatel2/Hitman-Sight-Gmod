@@ -68,6 +68,7 @@ local function onCtrlUp()
     
     hook.Remove("PreDrawHalos", "EnemyHalos")
     hook.Remove("PreDrawHalos", "FriendsHalos")
+    hook.Remove("PreDrawHalos", "PlayersHalos")
     
     debounce = false
 end
